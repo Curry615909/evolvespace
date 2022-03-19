@@ -1,0 +1,56 @@
+.card {
+    margin-top: 20px;
+    margin: auto;
+}
+
+.emoji {
+    width: 8%;
+    margin-bottom: 5px;
+}
+
+.description {
+    color: grey;
+}
+
+button {
+    border: 1px solid #FF2A42;
+    background-color: #FF2A42;
+    border-radius: 3px;
+    padding: 5px 13px;
+    color: white;
+}
+
+button:hover {
+    background-color: #FF4B6D;
+    border-color: #FF4B6D;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+.note {
+    font-size: 10px;
+}
+
+a:hover {
+    color: white;
+}
+
+i {
+    margin-right: 5px;
+}
+
+footer {
+    background-color: #FF2A42;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+#footer-text {
+    color: white !important;
+}
+
