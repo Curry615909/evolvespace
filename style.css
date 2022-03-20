@@ -55,6 +55,19 @@ footer {
 }
 
 .badge {
-    font-size: 10px;
+    position: relative;
+    bottom: 10px;
 }
 
+.footer {
+    text-align: center;
+    width: 100%;
+    height: 300px;
+    margin-bottom: -100px;
+    background-color: #FF2A42;
+    margin-top: 50px;
+}
+
+.footer p {
+    padding: 100px;
+}
